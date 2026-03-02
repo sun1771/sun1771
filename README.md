@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on VR design
-- 🌱 I’m currently learning three.js
-- 👯 I’m looking to collaborate on HCI projects at UCSC
+- 🔭 I’m currently building a full-stack web app
+- 🌱 I’m currently learning to code with AI
 - 📫 How to reach me: sanazkhanali71@gmail.com
 <!--
 **sun1771/sun1771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
